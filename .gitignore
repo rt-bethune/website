@@ -1,0 +1,20 @@
+.DS_Store
+coverage
+.npm
+.eslintcache
+.env
+node_modules
+
+# Hugo default output directory
+/public
+_gen 
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
