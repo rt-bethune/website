@@ -71,7 +71,7 @@
                 <h2 class="title is-2 has-text-centered">{{ .Title | markdownify }}</h2>
                 {{ if .Params.Image }}
                 <div class="columns">
-                    <div class="column is-one-third has-text-centered">
+                    <div class="column is-one-third">
                         {{ with $home.Resources.GetMatch .Params.Image }}
                         {{ with .Resize "320x" }}
                         <img class="img-responsive avatar" src="{{ .Permalink }}" alt="{{ .Name }}">
@@ -83,7 +83,7 @@
                     </div>
                 </div>
                 {{ else }}
-                <div class="markdown has-text-centered">
+                <div class="markdown">
                     {{ .Content }}
                 </div>
                 {{ end }}
@@ -106,14 +106,7 @@
                 <div class="markdown">
                     {{ .Content }}
                 </div>
-                {{ if .Site.Params.home.localTime }}
-                <p>{{ i18n "index_currentTime" . }} <span id="time"></span>.</p>
-                {{ end }}
-                {{ with .Site.Params.email }}
-                <h3 class="subtitle is-3 has-text-centered top-pad">
-                    <a href="mailto:{{ . }}">{{ . }}</a>
-                </h3>
-                {{ end }}
+                
                 {{ partial "home/social.html" . }}
             </div>
             <!-- End Contact container -->

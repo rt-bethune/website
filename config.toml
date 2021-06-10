@@ -10,7 +10,6 @@ DefaultContentLanguage           = "fr"                    # Default language fo
     fadeIn                       = false                    # Turn on/off the fade-in effect
     fadeInIndex                  = false                   # Turn on/off the fade-in effect on the index page even if fade-in was otherwise turned off
     dateFormat                   = "Jan 2, 2006"
-    email                        = "youremail@email.com"   # E-mail address for contact section
     customCSS                    = ["rt-bethune.css"] 
     # Configure the home page
     [params.home]
@@ -32,7 +31,22 @@ DefaultContentLanguage           = "fr"                    # Default language fo
         pinterest                = false
 
  
-
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ""
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    # For styles, see https://xyproto.github.io/splash/docs/longer/all.html
+    style = "friendly"
+    tabWidth = 4
 # We only use tag as a taxonomies
 # You can add more by yourself
 [taxonomies]
@@ -48,6 +62,6 @@ DefaultContentLanguage           = "fr"                    # Default language fo
         title            = "Introduction"
         [languages.fr.params]
             description  = "Website Description"   # Max 160 characters show in search results
-            # footerText   = ""                      # Text to override default footer text (markdown allowed)
+            footerText   = "Fait avec <i class=\"fa fa-heart\"></i> et <i class=\"fa fa-coffee\"></i>  par des enseignants du département."                      # Text to override default footer text (markdown allowed)
 
    

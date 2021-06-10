@@ -1,7 +1,12 @@
 ---
-title: "Contact"
+title: "Contacts"
 ---
 
-In the Contact section of **Introduction**, you may optionally display the current time in your preferred timezone.
+#### Secrétariat du RT
+Téléphone : 03.21.63.23.16  [Envoyer un mail](mailto:secretariat-rt@univ-artois.fr)
 
-This lets visitors know what sort of response time to expect when they contact you. The timezone is easily set in the `config.toml` file. See the exampleSite configuration for instructions.
+#### Secrétariat apprentissage
+Téléphone : 03.21.63.23.06 [Envoyer un mail](mailto:corinne.cornet@univ-artois.fr)
+
+
+[Pour plus d'informatons](https://iut-bethune.univ-artois.fr/?page_id=4167)
