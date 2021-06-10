@@ -15,3 +15,11 @@
     color: darkgray;
     font-size: 0.9rem;
 }
+
+.external-link{
+    color: darkgray;
+}
+
+.external-link i{
+    margin-right: 3px;
+}
