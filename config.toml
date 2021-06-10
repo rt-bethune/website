@@ -59,7 +59,7 @@ DefaultContentLanguage           = "fr"                    # Default language fo
         languageCode     = "fr-FR"
         contentDir       = "content/fr"
         weight           = 0
-        title            = "Introduction"
+        title            = "RT Béthune"
         [languages.fr.params]
             description  = "Website Description"   # Max 160 characters show in search results
             footerText   = "Fait avec <i class=\"fa fa-heart\"></i> et <i class=\"fa fa-coffee\"></i>  par des enseignants du département."                      # Text to override default footer text (markdown allowed)
