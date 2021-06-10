@@ -9,4 +9,9 @@
 .subtitle.is-3 {
     font-size: 1.5rem;
     color:darkgray;
-    }
+}
+
+#footer{
+    color: darkgray;
+    font-size: 0.9rem;
+}
