@@ -14,7 +14,7 @@ Parmi les atouts du département R&T de Béthune :
 
 
 
-Le **B.U.T. R&T** est un diplôme qui se prépare en trois ans (6 semestres) et qui permet d’acquérir les compétences et le savoir-faire nécessaires au métier de technicien supérieur / cadre intermédiaire dans le domaine des Nouvelles Technologies de l’Information et de la Communication (NTIC).
+Le **B.U.T. R&T** est un diplôme qui se prépare en trois ans (6 semestres) et qui permet d'acquérir les compétences et le savoir-faire nécessaires au métier de technicien supérieur / cadre intermédiaire dans le domaine des Nouvelles Technologies de l’Information et de la Communication (NTIC).
 
 Il ouvre également les portes de poursuites d’études (licences, écoles d’ingénieurs …).
 
