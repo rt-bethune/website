@@ -4,7 +4,7 @@ image: "rt-home.jpg"
 weight: 8
 ---
 
-Le département **R&T de l’IUT de Béthune** propose une formation **B.U.T.** dans les domaines des réseaux et des télécommunications. Il forme des « **neticiens** », c’est-à-dire des personnes qui ont la connaissance des réseaux.
+Le département **R&T de l'IUT de Béthune** propose une formation **B.U.T.** dans les domaines des réseaux et des télécommunications. Il forme des « **neticiens** », c’est-à-dire des personnes qui ont la connaissance des réseaux.
 
 Parmi les atouts du département R&T de Béthune :
 
