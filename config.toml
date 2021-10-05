@@ -1,4 +1,4 @@
-baseURL                          = "https://rt-bethune.github.io/website/"   # Your domain name. Must end with "/"
+baseURL                          = "/"   # Your domain name. Must end with "/"
 theme                            = "introduction"
 DefaultContentLanguage           = "fr"                    # Default language for multilingual sites
 
