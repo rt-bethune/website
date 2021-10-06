@@ -5,4 +5,4 @@ headless: true
 
 IUT de Béthune
 
-![Département RT](/rt-bethune-banner.svg)
+![Département RT](rt-bethune-banner.svg)
