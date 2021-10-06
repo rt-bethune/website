@@ -1,0 +1,25 @@
+.hero-body img {
+    border: 0px !important;
+    box-shadow: 0px 0px 0px;
+}
+.bold-title {
+    font-size: 2rem;
+}
+
+.subtitle.is-3 {
+    font-size: 1.5rem;
+    color:darkgray;
+}
+
+#footer{
+    color: darkgray;
+    font-size: 0.9rem;
+}
+
+.external-link{
+    color: darkgray;
+}
+
+.external-link i{
+    margin-right: 3px;
+}
