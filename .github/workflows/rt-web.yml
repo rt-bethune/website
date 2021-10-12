@@ -42,7 +42,7 @@ jobs:
             ${{ runner.os }}-node-
 
       - run: npm ci
-      - run: hugo --minify  --baseURL="http://rt-bethune.univ-artois.fr/"
+      - run: hugo --minify  --baseURL="https://rt-bethune.univ-artois.fr/"
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
