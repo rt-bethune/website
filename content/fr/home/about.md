@@ -18,4 +18,6 @@ Le **B.U.T. R&T** est un diplôme qui se prépare en trois ans (6 semestres) et 
 
 Il ouvre également les portes de poursuites d’études (licences, écoles d’ingénieurs …).
 
-Le B.U.T.  peut être suivi en formation traditionnelle ou, à partir de la 2ème année, en apprentissage. [Télécharger la plaquette](https://iut-bethune.univ-artois.fr/wp-content/uploads/2021/03/BUT_RT_2021.pdf)
+Le B.U.T.  peut être suivi en formation traditionnelle ou, à partir de la 2ème année, en apprentissage. 
+
+[Télécharger la plaquette](https://iut-bethune.univ-artois.fr/?page_id=4167)
