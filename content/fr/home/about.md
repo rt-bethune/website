@@ -20,4 +20,7 @@ Il ouvre également les portes de poursuites d’études (licences, écoles d’
 
 Le B.U.T.  peut être suivi en formation traditionnelle ou, à partir de la 2ème année, en apprentissage. 
 
-[Télécharger la plaquette](https://iut-bethune.univ-artois.fr/?page_id=4167)
+
+[Télécharger la plaquette ROM](https://iut-bethune.univ-artois.fr/wp-content/uploads/2025/07/BUT_RT_2025-2026.pdf)
+
+[Télécharger la plaquette CYBER](https://iut-bethune.univ-artois.fr/wp-content/uploads/2025/07/BUT_RT_2025-2026.pdf)
