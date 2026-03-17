@@ -9,4 +9,6 @@ Téléphone : 03.21.63.23.16  [Envoyer un mail](mailto:secretariat-rt@univ-artoi
 Téléphone : 03.21.63.23.06 [Envoyer un mail](mailto:corinne.cornet@univ-artois.fr)
 
 
-[Pour plus d'informatons](https://iut-bethune.univ-artois.fr/?page_id=4167)
+[Pour plus d'informations ROM](https://iut-bethune.univ-artois.fr/formation/rt-reseaux-operateurs-et-multimedia/)
+
+[Pour plus d'informations Cyber](https://iut-bethune.univ-artois.fr/formation/but-reseaux-et-telecommunications/)
